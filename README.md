@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning HTML.
 - 📫 How to reach me: Discord - RyanMoodGAMING#4307
 - 😄 Pronouns: He/Him
+
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMoodGAMING)](https://github.com/anuraghazra/github-readme-stats)
