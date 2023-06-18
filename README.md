@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on PandorianMC, spigot plugins.
 - 🌱 I’m currently learning CSS.
-- 📫 How to reach me: Discord - RyanMoodGAMING#7386 (ID: 531386361748520970)
+- 📫 How to reach me: Discord - @ryanmood (ID: 531386361748520970)
 - 😄 Pronouns: He/Him
 -  I know Java, Python and HTML.
 
